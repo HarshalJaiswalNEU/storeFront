@@ -1,0 +1,2 @@
+# storeFront
+Python Django project
